@@ -1,0 +1,17 @@
+RESTAURANT BILL CALCULATOR VER2.0 IN PYTHON
+
+
+**Login Details**
+
+Username: reddy
+Password: reddy12
+
+
+**Developed By arjun rawat**
+
+
+
+
+
+
+
